@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @vibesync18
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Page</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page!</h1>
+    <p>This is my first webpage hosted on GitHub Pages.</p>
+</body>
+</html>
+ 👋 Hi, I’m @vibesync18
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
