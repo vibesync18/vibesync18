@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VibeSync</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to VibeSync</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#explore">Explore</a></li>
+                <li><a href="#profile">Profile</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Trending Vibes</h2>
+            <div class="posts">
+                <!-- Dynamic content will be loaded here -->
+            </div>
+        </section>
+        <section id="explore">
+            <h2>Discover More</h2>
+            <p>Find new trends and creators to follow.</p>
+        </section>
+        <section id="profile">
+            <h2>Your Profile</h2>
+            <p>Manage your posts and settings.</p>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>no
